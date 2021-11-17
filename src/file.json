@@ -1,0 +1,11 @@
+{
+    "datas": [
+        {"exercice": "truc1", "reps": "12", "series":"54", "repos": "1'30"},
+        {"exercice": "truc2", "reps": "10", "series":"54", "repos": "1'30"},
+        {"exercice": "truc2", "reps": "10", "series":"54", "repos": "1'30"},
+        {"exercice": "truc2", "reps": "10", "series":"54", "repos": "1'30"},
+        {"exercice": "truc2", "reps": "10", "series":"54", "repos": "1'30"},
+        {"exercice": "truc2", "reps": "10", "series":"54", "repos": "1'30"},
+        {"exercice": "truc2", "reps": "10", "series":"54", "repos": "1'30"}
+    ]
+}
